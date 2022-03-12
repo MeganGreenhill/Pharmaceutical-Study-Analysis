@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# Pharmaceutical Study Analysis
 For this activity, data from a pharmaceutical study was prepared and cleaned, then used in activities including:
 - creating summary statistics tables to outline mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen;
 - creating bar plots showing the total number of timepoints for all mice tested for each drug regimen;
